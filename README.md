@@ -2,7 +2,7 @@
 <h1>👋 Hi, I'm Luca</h1>
 
 <p>👨‍💻 Full-stack developer with a curiosity for <strong>cybersecurity</strong> and <strong>modern web tech</strong>.<br>
-📺 I share technical content on TikTok <br>
+📺 I share technical content on TikTok, YouTube, and X <br>
 📍 You can find me at <a href="mailto:luca.baeyens@icloud.com">luca.baeyens@icloud.com</a>
 <hr>
 
