@@ -3,7 +3,7 @@
 
 <p>👨‍💻 Full-stack developer with a curiosity for <strong>cybersecurity</strong> and <strong>modern web tech</strong>.<br>
 📺 I share technical content on TikTok, YouTube, and X <br>
-📍 You can find me at <a href="mailto:luca.baeyens@icloud.com">luca.baeyens@icloud.com</a>
+📍 You can find me at <a href="mailto:luca.baeyens@icloud.com">luca.baeyens@icloud.com</a> and <a href="https://lucabae.pages.dev">my portfolio</a>
 <hr>
 
 <h2>⚙️ What I work with</h2>
