@@ -19,6 +19,7 @@
 <h2>📦 Projects</h2>
 <ul>
   <li><strong><a href="https://github.com/lucabae/audio2video-editor">Audio to Video AI Editor</a></strong>: Web-based editor built with Vanilla JS and Python Flask. It allows you to upload an audio file of yourself speaking, and automatically generates image or video clips that correspond to your audio. This eliminates the need to manually search for and insert images into your videos.</li>
-  <li><strong><a href="https://autonomia.pages.dev">Autonomia</a></strong>: A SaaS that let's non-technical users automate their tasks with a Drag and Drop editor, powered by Python. It allows tasks like: talking to local AIs, reading spreadsheets, making requests, moving your mouse and typing on your keyboard, etc.</li>
+  <li><strong><a href="https://autonomia.pages.dev">Autonomia</a></strong>: A SaaS that let's non-technical users automate their tasks with a Drag and Drop editor, powered by Python. It allows tasks like: talking to local AIs, reading spreadsheets, making requests, moving your mouse and typing on your keyboard, etc. <a href="https://www.youtube.com/watch?v=rBFq6Jc0Xss">🎥 Demo Video</a>
+  </li>
   <li><strong><a href="https://djangoquickie.pages.dev">DjangoQuickie</a></strong>: A boilerplate/starter kit for spinning up small Django projects fast. Useful for quick tests, MVPs, or demos with sensible defaults.</li>
 </ul>
