@@ -7,7 +7,7 @@
 
 <h2>⚙️ What I work with</h2>
 <ul>
-  <li><code>JavaScript</code>, <code>Python</code>, <code>C</code>, <code>Bash</code>, <code>SQL</code></li>
+  <li><code>HTML + CSS + JS</code>, <code>Python</code>, <code>Java</code>, <code>C</code>, <code>Bash</code>, <code>SQL</code></li>
   <li>Frontend: <strong>ReactJS</strong>, <strong>TailwindCSS</strong></li>
   <li>Backend: <strong>Django</strong>, <strong>PostgreSQL</strong>, <strong>REST APIs</strong></li>
   <li>Python/C Scripting</li>
