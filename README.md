@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1>👋 Hi, I'm Luca</h1>
 
-<p>👨‍💻 Full-stack/Embedded C developer<br>
+<p>👨‍💻 Full-stack/Robotics developer<br>
 📍 You can find me at <a href="mailto:luca.baeyens@icloud.com">luca.baeyens@icloud.com</a>
 <hr>
 
