@@ -1,27 +1,38 @@
-![Header](./github-header-image.png)
-<h1>👋 Hi, I'm Luca</h1>
+<div align="center">
+  <img src="./github-header-image.svg" alt="Luca Baeyens, backend engineer" width="100%">
+</div>
 
-<p>👨‍💻 Full-stack/Robotics developer<br>
-📍 You can find me at <a href="mailto:luca.baeyens@icloud.com">luca.baeyens@icloud.com</a>
-<hr>
+## About
 
-<h2>⚙️ What I work with</h2>
-<ul>
-  <li><code>HTML + CSS + JS</code>, <code>Python</code>, <code>Java</code>, <code>C</code>, <code>Bash</code>, <code>SQL</code></li>
-  <li>Frontend: <strong>ReactJS</strong>, <strong>TailwindCSS</strong></li>
-  <li>Backend: <strong>Django</strong>, <strong>PostgreSQL</strong>, <strong>REST APIs</strong></li>
-  <li>Python/C Scripting</li>
-  <li>C Bare-metal Embedded programming on Nucleo F401RE</li>
-  <li>AI Libraries: <strong>OLLama</strong>, <strong>Open AI Whisper</strong>, etc.</li>
-  <li>Web security: <strong>XSS</strong>, <strong>CSRF</strong>, <strong>auth flaws</strong>, etc.</li>
-  <li>APIs: <strong>Stripe Payments</strong>, <strong>Google SMTP</strong>, etc.</li>
-</ul>
+Software engineering student at UPM (ETSISI) in Madrid. I build backends: APIs, data models, authentication, integrations and deployment. I also teach Python and C to university students.
 
-<h2>📦 Projects</h2>
-<ul>
-  <li><strong><a href="https://github.com/lucabae/nucleo-f401re-lib">Nucleo F401RE C Bare-metal Library</a></strong>: Library to add a layer of abstraction over bare-metal Nucleo F401RE programming, by creating a set of functions to operate on the registers of the micro-controller.</li>
-  <li><strong><a href="https://github.com/lucabae/audio2video-editor">Audio to Video AI Editor</a></strong>: Web-based editor built with Vanilla JS and Python Flask. It allows you to upload an audio file of yourself speaking, and automatically generates image or video clips that correspond to your audio. This eliminates the need to manually search for and insert images into your videos.</li>
-  <li><strong><a href="https://autonomia.pages.dev">Autonomia</a></strong>: A SaaS that let's non-technical users automate their tasks with a Drag and Drop editor, powered by Python. It allows tasks like: talking to local AIs, reading spreadsheets, making requests, moving your mouse and typing on your keyboard, etc. <a href="https://www.youtube.com/watch?v=rBFq6Jc0Xss">🎥 Demo Video</a>
-  </li>
-  <li><strong><a href="https://djangoquickie.pages.dev">DjangoQuickie</a></strong>: A boilerplate/starter kit for spinning up small Django projects fast. Useful for quick tests, MVPs, or demos with sensible defaults.</li>
-</ul>
+Currently learning robotics from the software side: simulation, perception and control.
+
+## Projects
+
+### [Studyist](https://github.com/lucabae/studyist)
+
+Local-first study workspace. FastAPI, SQLite with FTS5, JWT auth, CalDAV sync with iCloud, spaced-repetition flashcards and LLM-generated exercises. Includes a pytest suite.
+
+### [KitchenManager](https://github.com/lucabae/KitchenManager)
+
+Kitchen inventory with barcode scanning. React 19 + TypeScript frontend, Flask API, SQLite, Open Food Facts integration.
+
+### [Moodle-scraper](https://github.com/lucabae/Moodle-scraper)
+
+CLI that mirrors a Moodle course as a local folder tree. Python, Selenium and BeautifulSoup. Fork of NelBruh/Moodle-scraper, MIT.
+
+## Stack
+
+```text
+Backend    Python · FastAPI · Django · Flask · REST · JWT · SQLite · PostgreSQL
+Frontend   React · TypeScript · Tailwind CSS
+Infra      Docker · Linux · Cloudflare · VPS
+Tools      Git · pytest · Selenium
+```
+
+## Links
+
+- Portfolio: [lucabae.com](https://lucabae.com)
+- Email: [me@lucabae.com](mailto:me@lucabae.com)
+- LinkedIn: [luca-b-75ba15269](https://www.linkedin.com/in/luca-b-75ba15269/)
