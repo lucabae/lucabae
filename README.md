@@ -6,7 +6,7 @@
 
 Software engineering student at UPM (ETSISI) in Madrid. I build backends: APIs, data models, authentication, integrations and deployment. I also teach Python and C to university students.
 
-Currently learning robotics from the software side: simulation, perception and control.
+Moving into robotics from the software side: simulation, perception and control.
 
 ## Projects
 
