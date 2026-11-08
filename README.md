@@ -4,9 +4,11 @@
 
 ## About
 
-Software engineering student at UPM (ETSISI) in Madrid. I build backends: APIs, data models, authentication, integrations and deployment. I also teach Python and C to university students.
+Software engineering student at UPM (ETSISI) in Madrid. I build backends: APIs, data models, authentication, integrations and deployment. I also teach Python and C to university students, which keeps me honest about pointers, manual memory management and low-level behaviour.
 
-Moving into robotics from the software side: simulation, perception and control.
+I run my own Linux machines: Docker, Bash scripting, self-hosting on a VPS.
+
+Moving into robotics from the software side: simulation, perception and control. Learning ROS 2 and the maths behind it on my own.
 
 ## Projects
 
@@ -14,20 +16,13 @@ Moving into robotics from the software side: simulation, perception and control.
 
 Local-first study workspace. FastAPI, SQLite with FTS5, JWT auth, CalDAV sync with iCloud, spaced-repetition flashcards and LLM-generated exercises. Includes a pytest suite.
 
-### [KitchenManager](https://github.com/lucabae/KitchenManager)
-
-Kitchen inventory with barcode scanning. React 19 + TypeScript frontend, Flask API, SQLite, Open Food Facts integration.
-
-### [Moodle-scraper](https://github.com/lucabae/Moodle-scraper)
-
-CLI that mirrors a Moodle course as a local folder tree. Python, Selenium and BeautifulSoup. Fork of NelBruh/Moodle-scraper, MIT.
-
 ## Stack
 
 ```text
 Backend    Python · FastAPI · Django · Flask · REST · JWT · SQLite · PostgreSQL
+Systems    C · pointers · manual memory · Linux
 Frontend   React · TypeScript · Tailwind CSS
-Infra      Docker · Linux · Cloudflare · VPS
+Infra      Docker · Linux · Bash · Cloudflare · VPS · self-hosting
 Tools      Git · pytest · Selenium
 ```
 
