@@ -31,4 +31,4 @@ Tools      Git · pytest · Selenium
 
 - Portfolio: [lucabae.com](https://lucabae.com)
 - Email: [me@lucabae.com](mailto:me@lucabae.com)
-- LinkedIn: [luca-b-75ba15269](https://www.linkedin.com/in/luca-b-75ba15269/)
+- LinkedIn: [lucabae](https://www.linkedin.com/in/lucabae/)
