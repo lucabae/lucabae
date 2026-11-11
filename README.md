@@ -4,11 +4,11 @@
 
 ## About
 
-Software engineering student at UPM (ETSISI) in Madrid. I build backends: APIs, data models, authentication, integrations and deployment. I also teach Python and C to university students, which keeps me honest about pointers, manual memory management and low-level behaviour.
+Software engineering student at UPM (ETSISI) in Madrid. I build backends: APIs, data models, authentication, integrations and deployment. I work mainly in Python and JavaScript, and I know C — I used to teach both Python and C to university students.
 
 I run my own Linux machines: Docker, Bash scripting, self-hosting on a VPS.
 
-Moving into robotics from the software side: simulation, perception and control. Learning ROS 2 and the maths behind it on my own.
+Right now I'm pivoting from backend into machine learning and robotics, which means Python is basically all I write these days. I'm learning robotics using PyTorch, TorchVision and MuJoCo for simulation, perception and control, and picking up ROS 2 and the maths behind it on my own.
 
 ## Projects
 
@@ -20,7 +20,8 @@ Local-first study workspace. FastAPI, SQLite with FTS5, JWT auth, CalDAV sync wi
 
 ```text
 Backend    Python · FastAPI · Django · Flask · REST · JWT · SQLite · PostgreSQL
-Systems    C · pointers · manual memory · Linux
+Robotics   Python · PyTorch · TorchVision · MuJoCo
+Systems    C · Linux
 Frontend   React · TypeScript · Tailwind CSS
 Infra      Docker · Linux · Bash · Cloudflare · VPS · self-hosting
 Tools      Git · pytest · Selenium
