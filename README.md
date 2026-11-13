@@ -12,6 +12,12 @@ Right now I'm pivoting from backend into machine learning and robotics, which me
 
 ## Projects
 
+### [Mappex](https://github.com/lucabae/mappex)
+
+Indoor object mapping in MuJoCo with a simulated Skydio X2. Generates synthetic
+training images, detects objects with YOLO, projects detections into world
+coordinates using depth, and merges observations into a top-down map.
+
 ### [Studyist](https://github.com/lucabae/studyist)
 
 Local-first study workspace. FastAPI, SQLite with FTS5, JWT auth, CalDAV sync with iCloud, spaced-repetition flashcards and LLM-generated exercises. Includes a pytest suite.
