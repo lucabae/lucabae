@@ -4,11 +4,11 @@
 
 ## About
 
-Software engineering student at UPM (ETSISI) in Madrid. I build backends: APIs, data models, authentication, integrations and deployment. I work mainly in Python and JavaScript, and I know C — I used to teach both Python and C to university students.
+I'm **Luca Baeyens** ([lucabae](https://lucabae.com)), a backend engineer in Madrid. I've been writing code since 2022, before university: I started with the web because it was the fastest way to ship something real, and stayed with the backend — APIs, data models, authentication, integrations and deployment.
 
-I run my own Linux machines: Docker, Bash scripting, self-hosting on a VPS.
+I study Software Engineering at UPM (ETSISI) and teach Python and C to university students. I work mainly in Python, with C for the low-level parts, and I run my own Linux machines: Docker, Bash, self-hosting on a VPS.
 
-Right now I'm pivoting from backend into machine learning and robotics, which means Python is basically all I write these days. I'm learning robotics using PyTorch, TorchVision and MuJoCo for simulation, perception and control, and picking up ROS 2 and the maths behind it on my own.
+Right now I'm moving from backend into machine learning and robotics from the software side: PyTorch, TorchVision and MuJoCo for simulation, perception and control, plus the maths underneath. Harvard CS50x, 2026.
 
 ## Projects
 
